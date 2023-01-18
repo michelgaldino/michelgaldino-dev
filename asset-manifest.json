@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "./static/js/main.55e8b812.js",
+    "main.js": "./static/js/main.7b8550f4.js",
     "static/media/foto.png": "./static/media/foto.e8ebbe511b539bd9db17.png",
     "static/media/cidpet.png": "./static/media/cidpet.51333a0ee993b098b1e4.png",
-    "static/media/Michel_CV.pdf": "./static/media/Michel_CV.85ba699fa819cab92944.pdf",
+    "static/media/Michel_CV.pdf": "./static/media/Michel_CV.9cf457c4045a450a0641.pdf",
     "static/media/icon.png": "./static/media/icon.be912bf941a48d56e101.png",
     "index.html": "./index.html",
-    "main.55e8b812.js.map": "./static/js/main.55e8b812.js.map"
+    "main.7b8550f4.js.map": "./static/js/main.7b8550f4.js.map"
   },
   "entrypoints": [
-    "static/js/main.55e8b812.js"
+    "static/js/main.7b8550f4.js"
   ]
 }
